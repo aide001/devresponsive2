@@ -72,12 +72,12 @@ padding: 3%;
     line-height: 2;
     font-family: Arial;
     text-align:center;
-    padding: 0% 8%;
+    padding: 0% 4%;
 }
 
 .secondheader {
     margin-top:40px;
-    color: lightslategray;
+    color: lightgray;
     font-size: 1.2rem;
     line-height: 2;
     font-family: Arial;
