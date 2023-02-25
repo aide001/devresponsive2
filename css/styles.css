@@ -355,6 +355,15 @@ padding: 3% 2%;
 
 }
 
+.pricingcost2 {
+
+    font-family: Arial;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: darkblue;
+}
+
 .planname {
    
     font-family: Arial;
