@@ -95,6 +95,15 @@ padding: 3%;
     font-family: Arial;
 }
 
+.slogan {
+
+    font-size:0.9rem;
+    margin-left: 50px;
+    font-style: italic;
+    font-family: "Arial";
+
+   }
+
 
 h1{
     font-family: "Arial";
